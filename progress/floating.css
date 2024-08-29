@@ -30,7 +30,7 @@
   #indexPage .itemProgressBar,
   .libraryPage .itemProgressBar,
   #itemDetailPage .itemProgressBar {
-    margin-right: .5em;
+    margin-right: .5em .8em;
   }
 }
 @supports (backdrop-filter: blur(15px)) {
